@@ -7,10 +7,10 @@ Makefile.*
 clean_ice_*
 comp_ice_*
 *~
-oceanM
-oceanG
+run*.out
+*.qsub
 ROMS*.e*
 ROMS*.o*
-run*.out
+oceanM
+oceanG
 PIGruns.txt
-*.qsub
